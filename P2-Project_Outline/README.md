@@ -33,4 +33,4 @@ Google API Maps
 ### What I'll Have to Learn
 For the login functionality, I will have to learn how to restrict user access to allow only members of the nonprofit organization to create accounts and log in the the site.
 
-In order to display a Google map of office locations on the client details page, I must learn Google API's and how to integrate it into the client details page.
+In order to display a Google map of office locations on the client details page, I must learn Google API's and how to embed the maps into the client details page.

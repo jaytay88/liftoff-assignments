@@ -13,9 +13,13 @@ This project was inspired by the need for a secure CRM to easily store and searc
 
 ### Features
 Secure User Login: Only users of the nonprofit organization selling licenses for the web app will be allowed to create accounts and log in to view, add, edit, or delete client details and information. All access will be restricted to logged in users who are members of the organization.
+
 Create and edit clients and client details: Users will be able to create clients in the database by entering information such as address, contact information, philanthropic interests, number of employees, contract start & end dates, etc. There will be required fields and optional fields. 
+
 View client details: Users can pull up a detailed page of all client information, including hyperlinks to client contact's email and Google Map of client office locations.
+
 Search and Filter: Users will have the ability to search (or filter) by client name, contact name, office location, philanthropic interestes, campaign interests, etc.
+
 Delete clients: Users can delete, or make client information inactive, upon end of client service.
 
 ### Technologies

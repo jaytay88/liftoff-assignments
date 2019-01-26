@@ -22,4 +22,4 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+<a href="https://github.com/thejentleman/spc_clientdb.git" alt="Github Repository">Github Repository</a>

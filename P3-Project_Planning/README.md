@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 <ul>
-  <li>Login</li>
+  <li>![Login](/jendt/capstone/login.png)</li>
   </ul>
 
 ### Project Tracker

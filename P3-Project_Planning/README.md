@@ -9,7 +9,9 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 <ul>
-  <li><a href="![Login](/jendt/capstone/login.png)">Login</a></li>
+  <li><a href="![Login](
+        liftoff-assignments/wireframe/login.png
+      )">Login</a></li>
   </ul>
 
 ### Project Tracker
